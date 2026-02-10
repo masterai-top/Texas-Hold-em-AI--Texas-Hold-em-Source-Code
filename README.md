@@ -1,5 +1,5 @@
 # Texas-Hold-em-AI---Texas-Hold-em-Source-Code
-德州撲克人工智慧AI，德州撲克源碼，德州源碼，unity3D德州，德州開源，德州俱樂部源碼，德州金幣大廳源碼；Telegram: @xuzongbin001
+德州撲克人工智慧AI，德州撲克源碼，德州源碼，unity3D德州，web德州，h5德州，德州開源，德州俱樂部源碼，德州金幣大廳源碼；Telegram: @xuzongbin001
 德州撲克原始碼開發，支援多個國家的語言，有金幣大廳模式的app，也有德州俱樂部模式的app；
 
 
