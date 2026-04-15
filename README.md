@@ -1,10 +1,56 @@
-# Texas-Hold-em-AI---Texas-Hold-em-Source-Code
-德州撲克人工智慧AI，德州撲克源碼，德州源碼，unity3D德州，web德州，h5德州，德州開源，德州俱樂部源碼，德州金幣大廳源碼；Telegram: @xuzongbin001
-德州撲克原始碼開發，支援多個國家的語言，有金幣大廳模式的app，也有德州俱樂部模式的app；
+# 🎰 德州扑克AI完整源码 | 金币大厅+俱乐部 | 多国语言
 
+> **德州AI + 金币大厅 + 俱乐部系统 + 多国语言 | C++完整服务端**
 
-<img width="267" height="432" alt="微信图片_20250713160726" src="https://github.com/user-attachments/assets/90114608-3840-400a-8682-e0b7d71e5ce0" />
-<img width="235" height="324" alt="微信图片_20250713160546" src="https://github.com/user-attachments/assets/7f3912e7-9c9b-4b48-a27c-b544c70ebfe7" />
+[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
+[![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android%20%7C%20H5-green)]()
+[![Language](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
+[![AI](https://img.shields.io/badge/AI-德州AI-orange)]()
+
+---
+
+## ✨ 核心特色
+
+| 特色模块 | 说明 |
+| :--- | :--- |
+| 🧠 **德州AI** | 内置AI机器人，可陪玩/对战 |
+| 🪙 **金币大厅** | 完整经济系统，金币玩法 |
+| 👥 **俱乐部系统** | 俱乐部创建、管理、赛事 |
+| 🌍 **多国语言** | 支持多个国家语言，适合出海 |
+| 📱 **多端支持** | Unity3D + Web + H5 |
+| 🏆 **稳定运营** | 成熟代码，可直接上线 |
+
+## 🎯 功能清单
+✅ 德州AI陪玩 ✅ 金币大厅 ✅ 俱乐部系统
+✅ 多国语言 ✅ 用户系统 ✅ 房间管理
+✅ 商城系统 ✅ 充值系统 ✅ 排行榜
+✅ 任务系统 ✅ 签到系统 ✅ 战绩统计
+## 📸 界面预览
+
+| 金币大厅 | 牌桌AI对战 | 俱乐部界面 |
+| :---: | :---: | :---: |
+| (待补充截图) | (待补充截图) | (待补充截图) |
+
+> 📷 截图正在整理中，联系我可获取最新演示视频和截图
+
+🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
+
+## 💰 获取源码
+
+✅ 完整C++服务端源码  
+✅ 完整Unity3D客户端源码  
+✅ 数据库脚本  
+✅ 美术资源  
+✅ 部署文档  
+
+📱 **Telegram：@xuzongbin001**  
+📧 **Email：masterai918@gmail.com**
+
+👉 **联系我获取演示站 + 详细报价**
+
+---
+
+⭐ Star 这个仓库，支持优质德州源码持续分享！
 
 ![06牌局](https://github.com/user-attachments/assets/ec336759-6a97-45b7-bf8a-c891c70a4cb4)
 ![03大厅](https://github.com/user-attachments/assets/c1b6fb8f-6f0d-4a16-8921-5fd8e6b79df6)
