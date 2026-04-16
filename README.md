@@ -52,5 +52,4 @@
 
 ⭐ Star 这个仓库，支持优质德州源码持续分享！
 
-![06牌局](https://github.com/user-attachments/assets/ec336759-6a97-45b7-bf8a-c891c70a4cb4)
-![03大厅](https://github.com/user-attachments/assets/c1b6fb8f-6f0d-4a16-8921-5fd8e6b79df6)
+
