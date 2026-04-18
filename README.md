@@ -55,7 +55,45 @@
 
 👉 **联系我获取演示站 + 详细报价**
 
+🎯 Use Cases
+AI research
+Game simulation
+Reinforcement learning experiments
+📊 Why This Project
+
+Compared to typical poker source code:
+
+Focus on AI modeling
+Clean architecture
+Simulation-ready
+⚠️ Disclaimer
+For research and educational purposes only
+No real-money or gambling features
+## 🧠 AI Overview
+
+This project models decision-making in complex environments:
+
+- Imperfect-information games  
+- Multi-agent interaction  
+- Strategy optimization  
+
 ---
+
+## ⚙️ Key Features
+
+- Poker AI decision engine  
+- Simulation environment  
+- Strategy evaluation system  
+- Modular architecture  
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/your-repo
+cd project
+run main
 
 ⭐ Star 这个仓库，支持优质德州源码持续分享！
 
