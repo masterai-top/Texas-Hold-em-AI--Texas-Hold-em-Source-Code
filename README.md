@@ -29,9 +29,16 @@
 
 | 金币大厅 | 牌桌AI对战 | 俱乐部界面 |
 | :---: | :---: | :---: |
-| (待补充截图) | (待补充截图) | (待补充截图) |
 
-> 📷 截图正在整理中，联系我可获取最新演示视频和截图
+<img width="1280" height="720" alt="新手训练营" src="https://github.com/user-attachments/assets/b32b8462-aae1-4f3f-8181-32a0700a3a4c" />
+<img width="1280" height="720" alt="德州-经典" src="https://github.com/user-attachments/assets/0fbd5636-325e-4f4e-8a9b-f68426988457" />
+<img width="1280" height="720" alt="99" src="https://github.com/user-attachments/assets/215ae4cd-0c0f-47e9-80a5-24c4651e790f" />
+<img width="1280" height="720" alt="88" src="https://github.com/user-attachments/assets/a1196c86-0b3f-432f-bd76-9b4848ef6da8" />
+<img width="1282" height="720" alt="77" src="https://github.com/user-attachments/assets/4fcc3566-1482-4cbc-bbff-b6a393642d70" />
+<img width="2688" height="1242" alt="66" src="https://github.com/user-attachments/assets/998412b5-aa52-46af-942a-82cb2cce7aac" />
+<img width="1280" height="720" alt="44" src="https://github.com/user-attachments/assets/529bcbe4-3056-4e47-a987-9bc39aae67f1" />
+<img width="1280" height="720" alt="11" src="https://github.com/user-attachments/assets/d36dc5fe-ee68-402d-a896-448abe8340de" />
+
 
 🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
 
