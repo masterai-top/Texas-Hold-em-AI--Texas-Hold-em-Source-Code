@@ -29,13 +29,10 @@
 
 ## 🚀 产品演示视频（强烈推荐观看）
 
-[![德州扑克完整功能演示](https://img.youtube.com/vi/iuFM8RJGU8s/maxresdefault.jpg)](https://youtu.be/iuFM8RJGU8s)
+[![德州扑克完整功能演示](https://img.youtube.com/vi/iuFM8RJGU8s/hqdefault.jpg)](https://youtu.be/iuFM8RJGU8s)
 
-**德州扑克完整功能演示视频**  
-金币大厅 + 俱乐部系统 + 多锦标赛 + 短牌玩法 + 实时多人对战
-
-视频详细展示了系统的核心玩法流程，包括大厅、创建房间、实时对战、俱乐部管理等功能。
-点击上方图片直接跳转 YouTube 播放。
+**点击上方图片即可跳转观看视频**  
+德州扑克完整功能演示 | 金币大厅 + 俱乐部系统 + MTT锦标赛 + 短牌玩法 + 实时多人对战
 
 
 ## 📸 界面预览
