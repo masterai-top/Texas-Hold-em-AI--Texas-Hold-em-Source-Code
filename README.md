@@ -51,9 +51,6 @@
 ![SNG竞赛](Screenshots/sng.jpg)  
 **SNG竞赛界面 | Sit & Go**
 
-![商城系统](Screenshots/商城.png)  
-**商城系统界面 | Shop / Mall**
-
 ![活动中心](Screenshots/活动.png)  
 **活动中心界面 | Events**
 
