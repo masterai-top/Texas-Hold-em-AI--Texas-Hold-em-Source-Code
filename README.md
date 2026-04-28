@@ -27,7 +27,7 @@
 ✅ 任务系统 ✅ 签到系统 ✅ 战绩统计
 
 
-## 🚀 产品演示视频（强烈推荐观看）
+## 🚀  Demo/产品演示视频（强烈推荐观看）
 
 [![德州扑克完整功能演示](https://img.youtube.com/vi/iuFM8RJGU8s/hqdefault.jpg)](https://youtu.be/iuFM8RJGU8s)
 
@@ -76,7 +76,7 @@
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 + 详细报价**
+
 
 🎯 Use Cases
 AI research
@@ -120,4 +120,6 @@ run main
 
 ⭐ Star 这个仓库，支持优质德州源码持续分享！
 
+## 🔍 Keywords
 
+Texas Holdem AI, Poker AI Engine, Multiplayer Poker System, Poker Game Server, C++ Poker Engine, Poker Simulation
